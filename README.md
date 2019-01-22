@@ -33,5 +33,9 @@ and posibly some causation of what could be the performance signature of a group
 As of today I have been taking some courses for the certification in Data Mining and Data Science and this 
 data could potentially be of use for a proposed project I could outline from the analysis of the data.
 
-Suggestions, comments and constructive and positive feedback will be welcome !!!
+Suggestions, comments and constructive feedback will be welcome !!!
+
+## Update Jan-2019
+Added a Python file that parse a datafile with more than 107 million records to capture 638264 wells with production history in the Permian Basin in Texas, USA.
+
 
