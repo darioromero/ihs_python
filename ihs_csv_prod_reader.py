@@ -6,6 +6,7 @@ class WellStatus(object):
     ACTIVE = '"A"'
     INACTIVE = '"I"'
 
+
 # dictionary with 298 Production Export codes
 codes = {
     "Start Record Label": "START_US_PROD",
