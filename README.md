@@ -1,7 +1,7 @@
 # ihs_python
 ## Objective
 
-Site to share python code to read comma separated production history export files originated from IHS database.
+Site to share python code to read comma separated production history. These are export files originated on the IHS database.
 
 ## Input Files
 
